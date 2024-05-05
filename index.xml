@@ -13,10 +13,91 @@
     </image>
     
     <item>
+      <title>XXXXX</title>
+      <link>https://yyxroy.github.io/publication/ccs24_vpn_manipulation/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://yyxroy.github.io/publication/ccs24_vpn_manipulation/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Horizontal Study on the Mixed IPID Assignment Vulnerability in the Linux Ecosystem</title>
       <link>https://yyxroy.github.io/publication/iwqos24_ipid_measurement/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://yyxroy.github.io/publication/iwqos24_ipid_measurement/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XXXXXXX</title>
+      <link>https://yyxroy.github.io/publication/ndss25_billing_manipulation/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://yyxroy.github.io/publication/ndss25_billing_manipulation/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XXXXXXX</title>
+      <link>https://yyxroy.github.io/publication/ndss25_nat_dos/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://yyxroy.github.io/publication/ndss25_nat_dos/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -471,7 +552,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-253748961&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-231548697&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -481,7 +562,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-253748961&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-231548697&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
