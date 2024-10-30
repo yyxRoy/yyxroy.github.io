@@ -5,7 +5,7 @@
     <link>https://yyxroy.github.io/publication/</link>
       <atom:link href="https://yyxroy.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yyxroy.github.io/media/icon_hu36773a5e7e3bf4ba52733317e74074c4_705178_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>An Empirical Study on Remote DoS Attacks against NAT Networks</title>
-      <link>https://yyxroy.github.io/publication/ndss25_nat_dos/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://yyxroy.github.io/publication/ndss25_nat_dos/</guid>
+      <title>XXXXX</title>
+      <link>https://yyxroy.github.io/publication/ccs24_vpn_manipulation/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://yyxroy.github.io/publication/ccs24_vpn_manipulation/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -67,10 +67,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>XXXXX</title>
-      <link>https://yyxroy.github.io/publication/ccs24_vpn_manipulation/</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://yyxroy.github.io/publication/ccs24_vpn_manipulation/</guid>
+      <title>ReDAN: An Empirical Study on Remote DoS Attacks against NAT Networks</title>
+      <link>https://yyxroy.github.io/publication/ndss25_nat_dos/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://yyxroy.github.io/publication/ndss25_nat_dos/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

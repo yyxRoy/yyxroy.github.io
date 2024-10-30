@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: September 22, 2024 --><html lang="en-us" >
+<!-- Last Published: October 30, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -277,7 +277,7 @@
 
   
 
-<meta name="description" content="In this paper, we conduct an empirical study on remote DoS attacks targeting NAT networks. We show that Internet attackers operating outside local NAT networks possess the capability to remotely identify a NAT device and subsequently terminate TCP connections initiated from the identified NAT device to external servers. Our attack involves two steps. First, we identify NAT devices on the Internet by exploiting inadequacies in the Path MTU Discovery (PMTUD) mechanism within NAT specifications. This deficiency creates a fundamental side channel that allows Internet attackers to distinguish if a public IPv4 address serves a NAT device or a separate IP host, aiding in the identification of target NAT devices. Second, we launch a remote DoS attack to terminate TCP connections on the identified NAT devices. While recent NAT implementations may include protective measures, such as packet legitimacy validation to prevent malicious manipulations on NAT mappings, we discover that these safeguards are not widely adopted in real world. Consequently, attackers can send crafted packets to deceive NAT devices into erroneously removing innocent TCP connection mappings, thereby disrupting the NATed clients to access remote TCP servers. Our experimental results reveal widespread security vulnerabilities in existing NAT devices. After testing 8 types of router firmware and 30 commercial NAT devices from 14 vendors, we identify vulnerabilities in 6 firmware types and 29 NAT devices that allow off-path removal of TCP connection mappings. Moreover, our measurements reveal a stark reality 166 out of 180 (over 92%) tested real-world NAT networks, comprising 90 4G LTE/5G networks, 60 public Wi-Fi networks, and 30 cloud VPS networks, are susceptible to exploitation. We responsibly disclosed the vulnerabilities to affected vendors and received a significant number of acknowledgments. Finally, we propose our countermeasures against the identified DoS attack." />
+<meta name="description" content="In this paper, we conduct an empirical study on remote DoS attacks targeting NAT networks (ReDAN, short for Remote DoS Attacks targeting NAT). We show that Internet attackers operating outside local NAT networks possess the capability to remotely identify a NAT device and subsequently terminate TCP connections initiated from the identified NAT device to external servers. Our attack involves two steps. First, we identify NAT devices on the Internet by exploiting inadequacies in the Path MTU Discovery (PMTUD) mechanism within NAT specifications. This deficiency creates a fundamental side channel that allows Internet attackers to distinguish if a public IPv4 address serves a NAT device or a separate IP host, aiding in the identification of target NAT devices. Second, we launch a remote DoS attack to terminate TCP connections on the identified NAT devices. While recent NAT implementations may include protective measures, such as packet legitimacy validation to prevent malicious manipulations on NAT mappings, we discover that these safeguards are not widely adopted in real world. Consequently, attackers can send crafted packets to deceive NAT devices into erroneously removing innocent TCP connection mappings, thereby disrupting the NATed clients to access remote TCP servers. Our experimental results reveal widespread security vulnerabilities in existing NAT devices. After testing 8 types of router firmware and 30 commercial NAT devices from 14 vendors, we identify vulnerabilities in 6 firmware types and 29 NAT devices that allow off-path removal of TCP connection mappings. Moreover, our measurements reveal a stark reality, 166 out of 180 (over 92\%) tested real-world NAT networks, comprising 90 4G LTE/5G networks, 60 public Wi-Fi networks, and 30 cloud VPS networks, are susceptible to exploitation. We responsibly disclosed the vulnerabilities to affected vendors and received a significant number of acknowledgments. Finally, we propose our countermeasures against the identified DoS attack." />
 
 
 
@@ -325,8 +325,8 @@
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Yuxiang Yang" />
 <meta property="og:url" content="https://yyxroy.github.io/publication/ndss25_nat_dos/" />
-<meta property="og:title" content="An Empirical Study on Remote DoS Attacks against NAT Networks | Yuxiang Yang" />
-<meta property="og:description" content="In this paper, we conduct an empirical study on remote DoS attacks targeting NAT networks. We show that Internet attackers operating outside local NAT networks possess the capability to remotely identify a NAT device and subsequently terminate TCP connections initiated from the identified NAT device to external servers. Our attack involves two steps. First, we identify NAT devices on the Internet by exploiting inadequacies in the Path MTU Discovery (PMTUD) mechanism within NAT specifications. This deficiency creates a fundamental side channel that allows Internet attackers to distinguish if a public IPv4 address serves a NAT device or a separate IP host, aiding in the identification of target NAT devices. Second, we launch a remote DoS attack to terminate TCP connections on the identified NAT devices. While recent NAT implementations may include protective measures, such as packet legitimacy validation to prevent malicious manipulations on NAT mappings, we discover that these safeguards are not widely adopted in real world. Consequently, attackers can send crafted packets to deceive NAT devices into erroneously removing innocent TCP connection mappings, thereby disrupting the NATed clients to access remote TCP servers. Our experimental results reveal widespread security vulnerabilities in existing NAT devices. After testing 8 types of router firmware and 30 commercial NAT devices from 14 vendors, we identify vulnerabilities in 6 firmware types and 29 NAT devices that allow off-path removal of TCP connection mappings. Moreover, our measurements reveal a stark reality 166 out of 180 (over 92%) tested real-world NAT networks, comprising 90 4G LTE/5G networks, 60 public Wi-Fi networks, and 30 cloud VPS networks, are susceptible to exploitation. We responsibly disclosed the vulnerabilities to affected vendors and received a significant number of acknowledgments. Finally, we propose our countermeasures against the identified DoS attack." /><meta property="og:image" content="https://yyxroy.github.io/media/icon_hu36773a5e7e3bf4ba52733317e74074c4_705178_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="ReDAN: An Empirical Study on Remote DoS Attacks against NAT Networks | Yuxiang Yang" />
+<meta property="og:description" content="In this paper, we conduct an empirical study on remote DoS attacks targeting NAT networks (ReDAN, short for Remote DoS Attacks targeting NAT). We show that Internet attackers operating outside local NAT networks possess the capability to remotely identify a NAT device and subsequently terminate TCP connections initiated from the identified NAT device to external servers. Our attack involves two steps. First, we identify NAT devices on the Internet by exploiting inadequacies in the Path MTU Discovery (PMTUD) mechanism within NAT specifications. This deficiency creates a fundamental side channel that allows Internet attackers to distinguish if a public IPv4 address serves a NAT device or a separate IP host, aiding in the identification of target NAT devices. Second, we launch a remote DoS attack to terminate TCP connections on the identified NAT devices. While recent NAT implementations may include protective measures, such as packet legitimacy validation to prevent malicious manipulations on NAT mappings, we discover that these safeguards are not widely adopted in real world. Consequently, attackers can send crafted packets to deceive NAT devices into erroneously removing innocent TCP connection mappings, thereby disrupting the NATed clients to access remote TCP servers. Our experimental results reveal widespread security vulnerabilities in existing NAT devices. After testing 8 types of router firmware and 30 commercial NAT devices from 14 vendors, we identify vulnerabilities in 6 firmware types and 29 NAT devices that allow off-path removal of TCP connection mappings. Moreover, our measurements reveal a stark reality, 166 out of 180 (over 92\%) tested real-world NAT networks, comprising 90 4G LTE/5G networks, 60 public Wi-Fi networks, and 30 cloud VPS networks, are susceptible to exploitation. We responsibly disclosed the vulnerabilities to affected vendors and received a significant number of acknowledgments. Finally, we propose our countermeasures against the identified DoS attack." /><meta property="og:image" content="https://yyxroy.github.io/media/icon_hu36773a5e7e3bf4ba52733317e74074c4_705178_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -361,7 +361,7 @@
     "@type": "WebPage",
     "@id": "https://yyxroy.github.io/publication/ndss25_nat_dos/"
   },
-  "headline": "An Empirical Study on Remote DoS Attacks against NAT Networks",
+  "headline": "ReDAN: An Empirical Study on Remote DoS Attacks against NAT Networks",
   
   "datePublished": "2024-07-01T00:00:00Z",
   "dateModified": "2025-02-27T00:00:00Z",
@@ -379,7 +379,7 @@
       "url": "https://yyxroy.github.io/media/icon_hu36773a5e7e3bf4ba52733317e74074c4_705178_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "In this paper, we conduct an empirical study on remote DoS attacks targeting NAT networks. We show that Internet attackers operating outside local NAT networks possess the capability to remotely identify a NAT device and subsequently terminate TCP connections initiated from the identified NAT device to external servers. Our attack involves two steps. First, we identify NAT devices on the Internet by exploiting inadequacies in the Path MTU Discovery (PMTUD) mechanism within NAT specifications. This deficiency creates a fundamental side channel that allows Internet attackers to distinguish if a public IPv4 address serves a NAT device or a separate IP host, aiding in the identification of target NAT devices. Second, we launch a remote DoS attack to terminate TCP connections on the identified NAT devices. While recent NAT implementations may include protective measures, such as packet legitimacy validation to prevent malicious manipulations on NAT mappings, we discover that these safeguards are not widely adopted in real world. Consequently, attackers can send crafted packets to deceive NAT devices into erroneously removing innocent TCP connection mappings, thereby disrupting the NATed clients to access remote TCP servers. Our experimental results reveal widespread security vulnerabilities in existing NAT devices. After testing 8 types of router firmware and 30 commercial NAT devices from 14 vendors, we identify vulnerabilities in 6 firmware types and 29 NAT devices that allow off-path removal of TCP connection mappings. Moreover, our measurements reveal a stark reality 166 out of 180 (over 92%) tested real-world NAT networks, comprising 90 4G LTE/5G networks, 60 public Wi-Fi networks, and 30 cloud VPS networks, are susceptible to exploitation. We responsibly disclosed the vulnerabilities to affected vendors and received a significant number of acknowledgments. Finally, we propose our countermeasures against the identified DoS attack."
+  "description": "In this paper, we conduct an empirical study on remote DoS attacks targeting NAT networks (ReDAN, short for Remote DoS Attacks targeting NAT). We show that Internet attackers operating outside local NAT networks possess the capability to remotely identify a NAT device and subsequently terminate TCP connections initiated from the identified NAT device to external servers. Our attack involves two steps. First, we identify NAT devices on the Internet by exploiting inadequacies in the Path MTU Discovery (PMTUD) mechanism within NAT specifications. This deficiency creates a fundamental side channel that allows Internet attackers to distinguish if a public IPv4 address serves a NAT device or a separate IP host, aiding in the identification of target NAT devices. Second, we launch a remote DoS attack to terminate TCP connections on the identified NAT devices. While recent NAT implementations may include protective measures, such as packet legitimacy validation to prevent malicious manipulations on NAT mappings, we discover that these safeguards are not widely adopted in real world. Consequently, attackers can send crafted packets to deceive NAT devices into erroneously removing innocent TCP connection mappings, thereby disrupting the NATed clients to access remote TCP servers. Our experimental results reveal widespread security vulnerabilities in existing NAT devices. After testing 8 types of router firmware and 30 commercial NAT devices from 14 vendors, we identify vulnerabilities in 6 firmware types and 29 NAT devices that allow off-path removal of TCP connection mappings. Moreover, our measurements reveal a stark reality, 166 out of 180 (over 92\\%) tested real-world NAT networks, comprising 90 4G LTE/5G networks, 60 public Wi-Fi networks, and 30 cloud VPS networks, are susceptible to exploitation. We responsibly disclosed the vulnerabilities to affected vendors and received a significant number of acknowledgments. Finally, we propose our countermeasures against the identified DoS attack."
 }
 </script>
 
@@ -401,7 +401,7 @@
 
 
   
-  <title>An Empirical Study on Remote DoS Attacks against NAT Networks | Yuxiang Yang</title>
+  <title>ReDAN: An Empirical Study on Remote DoS Attacks against NAT Networks | Yuxiang Yang</title>
 
   
   
@@ -800,7 +800,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>An Empirical Study on Remote DoS Attacks against NAT Networks</h1>
+  <h1>ReDAN: An Empirical Study on Remote DoS Attacks against NAT Networks</h1>
 
   
 
@@ -883,6 +883,14 @@
 </a>
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/Internet-Architecture-and-Security/Remote-DoS-Attacks-against-NAT-Networks" target="_blank" rel="noopener">
+  Code
+</a>
+
 
 
 
@@ -908,7 +916,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">In this paper, we conduct an empirical study on remote DoS attacks targeting NAT networks. We show that Internet attackers operating outside local NAT networks possess the capability to remotely identify a NAT device and subsequently terminate TCP connections initiated from the identified NAT device to external servers. Our attack involves two steps. First, we identify NAT devices on the Internet by exploiting inadequacies in the Path MTU Discovery (PMTUD) mechanism within NAT specifications. This deficiency creates a fundamental side channel that allows Internet attackers to distinguish if a public IPv4 address serves a NAT device or a separate IP host, aiding in the identification of target NAT devices. Second, we launch a remote DoS attack to terminate TCP connections on the identified NAT devices. While recent NAT implementations may include protective measures, such as packet legitimacy validation to prevent malicious manipulations on NAT mappings, we discover that these safeguards are not widely adopted in real world. Consequently, attackers can send crafted packets to deceive NAT devices into erroneously removing innocent TCP connection mappings, thereby disrupting the NATed clients to access remote TCP servers. Our experimental results reveal widespread security vulnerabilities in existing NAT devices. After testing 8 types of router firmware and 30 commercial NAT devices from 14 vendors, we identify vulnerabilities in 6 firmware types and 29 NAT devices that allow off-path removal of TCP connection mappings. Moreover, our measurements reveal a stark reality 166 out of 180 (over 92%) tested real-world NAT networks, comprising 90 4G LTE/5G networks, 60 public Wi-Fi networks, and 30 cloud VPS networks, are susceptible to exploitation. We responsibly disclosed the vulnerabilities to affected vendors and received a significant number of acknowledgments. Finally, we propose our countermeasures against the identified DoS attack.</p>
+    <p class="pub-abstract">In this paper, we conduct an empirical study on remote DoS attacks targeting NAT networks (ReDAN, short for Remote DoS Attacks targeting NAT). We show that Internet attackers operating outside local NAT networks possess the capability to remotely identify a NAT device and subsequently terminate TCP connections initiated from the identified NAT device to external servers. Our attack involves two steps. First, we identify NAT devices on the Internet by exploiting inadequacies in the Path MTU Discovery (PMTUD) mechanism within NAT specifications. This deficiency creates a fundamental side channel that allows Internet attackers to distinguish if a public IPv4 address serves a NAT device or a separate IP host, aiding in the identification of target NAT devices. Second, we launch a remote DoS attack to terminate TCP connections on the identified NAT devices. While recent NAT implementations may include protective measures, such as packet legitimacy validation to prevent malicious manipulations on NAT mappings, we discover that these safeguards are not widely adopted in real world. Consequently, attackers can send crafted packets to deceive NAT devices into erroneously removing innocent TCP connection mappings, thereby disrupting the NATed clients to access remote TCP servers. Our experimental results reveal widespread security vulnerabilities in existing NAT devices. After testing 8 types of router firmware and 30 commercial NAT devices from 14 vendors, we identify vulnerabilities in 6 firmware types and 29 NAT devices that allow off-path removal of TCP connection mappings. Moreover, our measurements reveal a stark reality, 166 out of 180 (over 92%) tested real-world NAT networks, comprising 90 4G LTE/5G networks, 60 public Wi-Fi networks, and 30 cloud VPS networks, are susceptible to exploitation. We responsibly disclosed the vulnerabilities to affected vendors and received a significant number of acknowledgments. Finally, we propose our countermeasures against the identified DoS attack.</p>
     
 
     
@@ -990,7 +998,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fyyxroy.github.io%2Fpublication%2Fndss25_nat_dos%2F&amp;text=An&#43;Empirical&#43;Study&#43;on&#43;Remote&#43;DoS&#43;Attacks&#43;against&#43;NAT&#43;Networks" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fyyxroy.github.io%2Fpublication%2Fndss25_nat_dos%2F&amp;text=ReDAN%3A&#43;An&#43;Empirical&#43;Study&#43;on&#43;Remote&#43;DoS&#43;Attacks&#43;against&#43;NAT&#43;Networks" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1007,7 +1015,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fyyxroy.github.io%2Fpublication%2Fndss25_nat_dos%2F&amp;t=An&#43;Empirical&#43;Study&#43;on&#43;Remote&#43;DoS&#43;Attacks&#43;against&#43;NAT&#43;Networks" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fyyxroy.github.io%2Fpublication%2Fndss25_nat_dos%2F&amp;t=ReDAN%3A&#43;An&#43;Empirical&#43;Study&#43;on&#43;Remote&#43;DoS&#43;Attacks&#43;against&#43;NAT&#43;Networks" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1026,7 +1034,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
         
       
       <li>
-        <a href="mailto:?subject=An%20Empirical%20Study%20on%20Remote%20DoS%20Attacks%20against%20NAT%20Networks&amp;body=https%3A%2F%2Fyyxroy.github.io%2Fpublication%2Fndss25_nat_dos%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=ReDAN%3A%20An%20Empirical%20Study%20on%20Remote%20DoS%20Attacks%20against%20NAT%20Networks&amp;body=https%3A%2F%2Fyyxroy.github.io%2Fpublication%2Fndss25_nat_dos%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1043,7 +1051,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fyyxroy.github.io%2Fpublication%2Fndss25_nat_dos%2F&amp;title=An&#43;Empirical&#43;Study&#43;on&#43;Remote&#43;DoS&#43;Attacks&#43;against&#43;NAT&#43;Networks" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fyyxroy.github.io%2Fpublication%2Fndss25_nat_dos%2F&amp;title=ReDAN%3A&#43;An&#43;Empirical&#43;Study&#43;on&#43;Remote&#43;DoS&#43;Attacks&#43;against&#43;NAT&#43;Networks" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1060,7 +1068,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
       
       
       <li>
-        <a href="whatsapp://send?text=An&#43;Empirical&#43;Study&#43;on&#43;Remote&#43;DoS&#43;Attacks&#43;against&#43;NAT&#43;Networks%20https%3A%2F%2Fyyxroy.github.io%2Fpublication%2Fndss25_nat_dos%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=ReDAN%3A&#43;An&#43;Empirical&#43;Study&#43;on&#43;Remote&#43;DoS&#43;Attacks&#43;against&#43;NAT&#43;Networks%20https%3A%2F%2Fyyxroy.github.io%2Fpublication%2Fndss25_nat_dos%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1077,7 +1085,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fyyxroy.github.io%2Fpublication%2Fndss25_nat_dos%2F&amp;title=An&#43;Empirical&#43;Study&#43;on&#43;Remote&#43;DoS&#43;Attacks&#43;against&#43;NAT&#43;Networks" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fyyxroy.github.io%2Fpublication%2Fndss25_nat_dos%2F&amp;title=ReDAN%3A&#43;An&#43;Empirical&#43;Study&#43;on&#43;Remote&#43;DoS&#43;Attacks&#43;against&#43;NAT&#43;Networks" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
