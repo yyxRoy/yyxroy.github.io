@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Off-Path TCP Hijacking in NAT-Enabled Wi-Fi Networks</title>
-      <link>https://yyxroy.github.io/publication/ton25_nat_hijacking/</link>
+      <title>XXXXX</title>
+      <link>https://yyxroy.github.io/publication/ccs24_vpn_manipulation/</link>
       <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://yyxroy.github.io/publication/ton25_nat_hijacking/</guid>
+      <guid>https://yyxroy.github.io/publication/ccs24_vpn_manipulation/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -40,10 +40,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>XXXXX</title>
-      <link>https://yyxroy.github.io/publication/ccs24_vpn_manipulation/</link>
-      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://yyxroy.github.io/publication/ccs24_vpn_manipulation/</guid>
+      <title>Off-Path TCP Hijacking in NAT-Enabled Wi-Fi Networks</title>
+      <link>https://yyxroy.github.io/publication/ton25_nat_hijacking/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://yyxroy.github.io/publication/ton25_nat_hijacking/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -969,7 +969,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-358962417&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-184297563&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -979,7 +979,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-358962417&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-184297563&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
