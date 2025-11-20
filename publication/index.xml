@@ -5,7 +5,7 @@
     <link>https://yyxroy.github.io/publication/</link>
       <atom:link href="https://yyxroy.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yyxroy.github.io/media/icon_hu36773a5e7e3bf4ba52733317e74074c4_705178_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -15,8 +15,62 @@
     <item>
       <title>XXXXX</title>
       <link>https://yyxroy.github.io/publication/ccs24_vpn_manipulation/</link>
-      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://yyxroy.github.io/publication/ccs24_vpn_manipulation/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XXXXXXX</title>
+      <link>https://yyxroy.github.io/publication/ndss25_billing_manipulation/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://yyxroy.github.io/publication/ndss25_billing_manipulation/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncovering Gaps Between RFC Updates and TCP/IP Implementations: LLM-Facilitated Differential Checks on Intermediate Representations</title>
+      <link>https://yyxroy.github.io/publication/arxiv25_llm-analysis-tcp/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://yyxroy.github.io/publication/arxiv25_llm-analysis-tcp/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -44,33 +98,6 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://yyxroy.github.io/publication/ton25_nat_hijacking/</link>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://yyxroy.github.io/publication/ton25_nat_hijacking/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>XXXXXXX</title>
-      <link>https://yyxroy.github.io/publication/ndss25_billing_manipulation/</link>
-      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://yyxroy.github.io/publication/ndss25_billing_manipulation/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

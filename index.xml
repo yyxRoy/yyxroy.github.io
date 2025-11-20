@@ -15,35 +15,8 @@
     <item>
       <title>XXXXX</title>
       <link>https://yyxroy.github.io/publication/ccs24_vpn_manipulation/</link>
-      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://yyxroy.github.io/publication/ccs24_vpn_manipulation/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Off-Path TCP Hijacking in NAT-Enabled Wi-Fi Networks</title>
-      <link>https://yyxroy.github.io/publication/ton25_nat_hijacking/</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://yyxroy.github.io/publication/ton25_nat_hijacking/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -69,8 +42,150 @@ Supplementary notes can be added here, including [code, math, and images](https:
     <item>
       <title>XXXXXXX</title>
       <link>https://yyxroy.github.io/publication/ndss25_billing_manipulation/</link>
-      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       <guid>https://yyxroy.github.io/publication/ndss25_billing_manipulation/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncovering Gaps Between RFC Updates and TCP/IP Implementations: LLM-Facilitated Differential Checks on Intermediate Representations</title>
+      <link>https://yyxroy.github.io/publication/arxiv25_llm-analysis-tcp/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://yyxroy.github.io/publication/arxiv25_llm-analysis-tcp/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IETF 123 Hackathon and Meeting</title>
+      <link>https://yyxroy.github.io/talk/ietf-123-hackathon-and-meeting/</link>
+      <pubDate>Tue, 15 Jul 2025 13:00:00 +0000</pubDate>
+      <guid>https://yyxroy.github.io/talk/ietf-123-hackathon-and-meeting/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Moments:&lt;/strong&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./1.jpg&#34; alt=&#34;jpg&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.jpg&#34; alt=&#34;jpg&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./3.jpg&#34; alt=&#34;jpg&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Off-Path TCP Hijacking in NAT-Enabled Wi-Fi Networks</title>
+      <link>https://yyxroy.github.io/publication/ton25_nat_hijacking/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://yyxroy.github.io/publication/ton25_nat_hijacking/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -948,7 +1063,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-362147985&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-371682549&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -958,7 +1073,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-362147985&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-371682549&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

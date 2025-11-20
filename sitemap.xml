@@ -3,19 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://yyxroy.github.io/publication-type/1/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yyxroy.github.io/publication_types/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yyxroy.github.io/publication/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yyxroy.github.io/publication/ccs24_vpn_manipulation/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yyxroy.github.io/publication/ndss25_billing_manipulation/</loc>
+    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yyxroy.github.io/publication-type/3/</loc>
+    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yyxroy.github.io/publication/arxiv25_llm-analysis-tcp/</loc>
+    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yyxroy.github.io/talk/ietf-123-hackathon-and-meeting/</loc>
+    <lastmod>2025-07-15T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yyxroy.github.io/event/</loc>
+    <lastmod>2025-07-15T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yyxroy.github.io/publication-type/2/</loc>
@@ -26,15 +46,7 @@
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yyxroy.github.io/publication/ndss25_billing_manipulation/</loc>
-    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://yyxroy.github.io/talk/ietf-122-hackathon-and-meeting/</loc>
-    <lastmod>2025-03-15T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yyxroy.github.io/event/</loc>
     <lastmod>2025-03-15T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

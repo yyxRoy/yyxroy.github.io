@@ -5,7 +5,7 @@
     <link>https://yyxroy.github.io/publication-type/3/</link>
       <atom:link href="https://yyxroy.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yyxroy.github.io/media/icon_hu36773a5e7e3bf4ba52733317e74074c4_705178_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Off-Path TCP Hijacking in Wi-Fi Networks: A Packet-Size Side Channel Attack</title>
-      <link>https://yyxroy.github.io/publication/arxiv24_wifi-sidechannel/</link>
-      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://yyxroy.github.io/publication/arxiv24_wifi-sidechannel/</guid>
+      <title>Uncovering Gaps Between RFC Updates and TCP/IP Implementations: LLM-Facilitated Differential Checks on Intermediate Representations</title>
+      <link>https://yyxroy.github.io/publication/arxiv25_llm-analysis-tcp/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://yyxroy.github.io/publication/arxiv25_llm-analysis-tcp/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
